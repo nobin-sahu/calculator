@@ -1,5 +1,8 @@
 # calculator
-
+  "A classic Calculator built with HTML, CSS, and JavaScript."
+## Live Link :
+  [Click](https://nobin-sahu.github.io/calculator/)
+  
 ## Overview:
   1. A simple and functional calculator built with HTML, CSS, and JavaScript.
      
